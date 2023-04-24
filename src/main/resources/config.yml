@@ -1,0 +1,79 @@
+paperContents:
+  4:
+    - "Compiler_Construction"
+    - "Compiler_Construction"
+    - "Concepts_in_Programming_Languages"
+    - "Prolog"
+    - "Programming_in_C_and_C++"
+    - "Programming_in_C_and_C++"
+    - "Security"
+    - "Security"
+  5:
+    - "Computer_Networking"
+    - "Computer_Networking"
+    - "Computer_Networking"
+    - "Concurrent_and_Distributed_Systems"
+    - "Concurrent_and_Distributed_Systems"
+    - "Introduction_to_Computer_Architecture"
+    - "Introduction_to_Computer_Architecture"
+    - "Introduction_to_Computer_Architecture"
+  6:
+    - "Complexity_Theory"
+    - "Complexity_Theory"
+    - "Computation_Theory"
+    - "Computation_Theory"
+    - "Data_Science"
+    - "Data_Science"
+    - "Logic_and_Proof"
+    - "Logic_and_Proof"
+    - "Semantics"
+    - "Semantics"
+  7:
+    - "Artificial_Intelligence"
+    - "Artificial_Intelligence"
+    - "Economics,Law_and_Ethics"
+    - "Economics,Law_and_Ethics"
+    - "Formal_Models_of_Language"
+    - "Formal_Models_of_Language"
+    - "Further_Graphics"
+    - "Further_Graphics"
+    - "Further_HCI"
+    - "Further_HCI"
+pastQuestions:
+  Compiler_Construction:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-CompilerConstruction.html
+  Concepts_in_Programming_Languages:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-ConceptsinProgrammingLanguages.html
+  Prolog:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-Prolog.html
+  Programming_in_C_and_C++:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-ProgramminginCandC++.html
+  Security:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-Security.html
+  Computer_Networking:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-ComputerNetworking.html
+  Concurrent_and_Distributed_Systems:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-ConcurrentandDistributedSystems.html
+  Introduction_to_Computer_Architecture:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-IntroductiontoComputerArchitecture.html
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-ComputerDesign.html
+  Complexity_Theory:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-ComplexityTheory.html
+  Computation_Theory:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-ComputationTheory.html
+  Data_Science:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-DataScience.html
+  Logic_and_Proof:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-LogicandProof.html
+  Semantics:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-SemanticsofProgrammingLanguages.html
+  Artificial_Intelligence:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-ArtificialIntelligence.html
+  Economics,Law_and_Ethics:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-EconomicsLawandEthics.html
+  Formal_Models_of_Language:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-FormalModelsofLanguage.html
+  Further_Graphics:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-FurtherGraphics.html
+  Further_HCI:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-FurtherHuman-ComputerInteraction.html
