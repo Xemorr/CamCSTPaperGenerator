@@ -9,6 +9,8 @@ public class Config {
     private Map<Integer, List<String>> paperContents;
     private Map<String, List<String>> pastQuestions;
 
+    private int numberOfHistoricalQuestionsPerModule;
+
     public Map<Integer, List<String>> getPaperContents() {
         return paperContents;
     }
@@ -23,5 +25,13 @@ public class Config {
 
     public void setPastQuestions(Map<String, List<String>> pastQuestions) {
         this.pastQuestions = pastQuestions;
+    }
+
+    public int getNumberOfHistoricalQuestionsPerModule() {
+        return numberOfHistoricalQuestionsPerModule;
+    }
+
+    public void setNumberOfHistoricalQuestionsPerModule(int numberOfHistoricalQuestionsPerModule) {
+        this.numberOfHistoricalQuestionsPerModule = numberOfHistoricalQuestionsPerModule;
     }
 }

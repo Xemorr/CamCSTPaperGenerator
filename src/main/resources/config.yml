@@ -1,3 +1,4 @@
+numberOfHistoricalQuestionsPerModule: 10
 paperContents:
   4:
     - "Compiler_Construction"

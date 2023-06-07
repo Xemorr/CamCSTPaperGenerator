@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1708354e-4bd4-4241-a8de-324e00ee2069" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/xemor/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/xemor/Config.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/me/xemor/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/xemor/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
@@ -177,8 +177,8 @@
     </configuration>
     <configuration name="Run" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/CamCSTPaperGenerator-1.0-SNAPSHOT-all.jar" />
-      <option name="PROGRAM_PARAMETERS" value="6" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\samue\IdeaProjects\CamCSTPaperGenerator\" />
+      <option name="PROGRAM_PARAMETERS" value="7" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\samue\IdeaProjects\CamCSTPaperGenerator" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Gradle.BeforeRunTask" enabled="true" tasks="shadowJar" externalProjectPath="$PROJECT_DIR$" vmOptions="" scriptParameters="" />

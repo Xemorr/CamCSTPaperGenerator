@@ -39,11 +39,12 @@ public class Main {
         PDDocument doc = new PDDocument();
         opened.add(doc);
         String lastQuestion = "";
-        List<Integer> rngs = new ArrayList<>();
+        Map<String, List<Integer>> rngsMap = new HashMap<>();
         for (String question : questions) {
             List<QuestionURL> questionURLs = getPDFURLs(question, config);
-            int rng = random.nextInt(questionURLs.size());
+            int rng = random.nextInt(Math.min(config.getNumberOfHistoricalQuestionsPerModule(), questionURLs.size()));
             if (lastQuestion.equals(question)) {
+                List<Integer> rngs = rngsMap.computeIfAbsent(question, (s) -> new ArrayList<>());
                 while (rngs.contains(rng)) {
                     rng = random.nextInt(questionURLs.size());
                 }
@@ -51,7 +52,7 @@ public class Main {
             else {
                 lastQuestion = question;
             }
-            rngs.add(rng);
+            rngsMap.computeIfAbsent(question, (s) -> new ArrayList<>()).add(rng);
             QuestionURL questionURL = questionURLs.get(rng);
             PDDocument result = getPDF(questionURL);
             for (PDPage page : result.getPages()) {
