@@ -40,7 +40,24 @@ paperContents:
     - "Further_Graphics"
     - "Further_HCI"
     - "Further_HCI"
+  81: # Special Michaelmas Paper for what I am studying in Part II
+    - "Bioinformatics"
+    - "Bioinformatics"
+    - "Communications"
+    - "Communications"
+    - "Digital Signal Processing"
+    - "Digital Signal Processing"
+    - "Information Theory"
+    - "Information Theory"
 pastQuestions:
+  Bioinformatics:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-Bioinformatics.html
+  Communications:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-PrinciplesofCommunications.html
+  Digital Signal Processing:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-DigitalSignalProcessing.html
+  Information Theory:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-InformationTheory.html
   Compiler_Construction:
     - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-CompilerConstruction.html
   Concepts_in_Programming_Languages:
