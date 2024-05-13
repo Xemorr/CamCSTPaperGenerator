@@ -199,7 +199,7 @@
     </configuration>
     <configuration name="Run" type="JarApplication">
       <option name="JAR_PATH" value="$PROJECT_DIR$/CamCSTPaperGenerator-1.0-SNAPSHOT-all.jar" />
-      <option name="PROGRAM_PARAMETERS" value="81" />
+      <option name="PROGRAM_PARAMETERS" value="8" />
       <option name="WORKING_DIRECTORY" value="C:\Users\samue\IdeaProjects\CamCSTPaperGenerator" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">

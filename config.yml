@@ -40,6 +40,14 @@ paperContents:
     - "Further_Graphics"
     - "Further_HCI"
     - "Further_HCI"
+  8:
+    - "Bioinformatics"
+    - "Communications"
+    - "Information Theory"
+    - "Quantum Computing"
+    - "Optimising Compilers"
+    - "MLBI"
+    - "Advanced Computer Architecture"
   81: # Special Michaelmas Paper for what I am studying in Part II
     - "Bioinformatics"
     - "Bioinformatics"
@@ -49,7 +57,29 @@ paperContents:
     - "Digital Signal Processing"
     - "Information Theory"
     - "Information Theory"
+  91: # DSP Unit of Assessment Paper
+    - "Digital Signal Processing"
+    - "Digital Signal Processing"
+    - "Digital Signal Processing"
+    - "Digital Signal Processing"
+    - "Digital Signal Processing"
+    - "Digital Signal Processing"
+    - "Digital Signal Processing"
+    - "Digital Signal Processing"
 pastQuestions:
+  Quantum Computing:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-QuantumComputing.html
+  MLBI:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-MachineLearningandBayesianInference.html
+  Optimising Compilers:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-OptimisingCompilers.html
+  Advanced Computer Architecture:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-AdvancedComputerArchitecture.html
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-ComparativeArchitectures.html
+  Cryptography:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-Cryptography.html
+  Business:
+    - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-BusinessStudies.html
   Bioinformatics:
     - https://www.cl.cam.ac.uk/teaching/exams/pastpapers/t-Bioinformatics.html
   Communications:
