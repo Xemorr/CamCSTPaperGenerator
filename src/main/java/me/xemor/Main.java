@@ -98,7 +98,7 @@ public class Main {
         for (String url : questionPages) {
             try {
                 Document document = Jsoup.connect(url).get();
-                List<Node> nodes = document.select("#content > div:nth-child(1) > ul:nth-child(5)").get(0).childNodes();
+                List<Node> nodes = document.select("#content > div:nth-child(1) > ul:nth-child(4)").get(0).childNodes();
                 Iterator<Node> nodeIterator = nodes.iterator();
                 nodeIterator.next(); // skip bogus textnode
                 for (Iterator<Node> it = nodeIterator; it.hasNext(); ) {
